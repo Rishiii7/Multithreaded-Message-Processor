@@ -1,11 +1,3 @@
-/**
- * Logger.cpp
- *
- * Logger class provides a queue based interface for writing & reading Message objects by multiple threads into the shared std::queue
- *
- * Author: Nalinaksh Gaur
- */
-
 #include <iostream>
 #include <mutex>
 #include <queue>
