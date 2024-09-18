@@ -1,14 +1,5 @@
 #ifndef __MESSAGE_H_INCLUDED__
 #define __MESSAGE_H_INCLUDED__
-
-/**
- * Message.h
- *
- * Message class (message objects are written/read into/from std::queue)
- *
- * Author: Nalinaksh Gaur
- */
-
 #include <iostream>
 
 using namespace std;
