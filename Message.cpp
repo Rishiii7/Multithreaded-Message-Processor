@@ -1,11 +1,3 @@
-/**
- * Message.cpp
- *
- * Message class (message objects are written/read into/from std::queue)
- *
- * Author: Nalinaksh Gaur
- */
-
 #include <iostream>
 #include "Message.h"
 
