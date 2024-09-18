@@ -1,16 +1,3 @@
-/**
- * Application.cpp
- *
- * C++ std::thread API example.
- * Lock-based solution.
- *
- * Author: Nalinaksh Gaur
- * 
- * Compiled on Mac using the following command:
- *
- *   "clang++ -std=c++11 -stdlib=libc++ Application.cpp Message.cpp Logger.cpp"
- */
-
 #include <iostream>
 #include <mutex>
 #include <queue>
